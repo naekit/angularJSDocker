@@ -15,6 +15,7 @@
 				}
 			)
 		}
+		// simple ng-class binding to change the color of the total
 
 		function getOrdersTotal() {
 			let total = 0
